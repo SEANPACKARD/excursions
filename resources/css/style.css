@@ -1,3 +1,17 @@
-h1{
-  font-size: 34px;
+body {
+  background-color: black;
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 50px;
+  font-family: Verdana;
+  color: white;
+  align-items: center;
+}
+
+.class {
+  font-size: 16px;
+  color: aquamarine;
 }
